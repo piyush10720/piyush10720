@@ -60,7 +60,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush7833&show_icons=true&locale=en&layout=compact" alt="piyush7833" /></p>
 
-<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=piyush7833&show_icons=true&locale=en](https://awesome-github-stats.azurewebsites.net/user-stats/piyush7833?cardType=level&preferLogin=false)" alt="piyush7833" /></p>
+<p>&nbsp;<img align="center" src="[https://awesome-github-stats.azurewebsites.net/user-stats/piyush7833?cardType=level&preferLogin=false" alt="piyush7833" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush7833&" alt="piyush7833" /></p>
 
