@@ -58,15 +58,11 @@
 [Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush7833&show_icons=true&locale=en&layout=compact" alt="piyush7833" /></p>
+<p><img align="left" src="https://api.githubtrends.io/user/svg/piyush7833/langs?time_range=one_year&loc_metric=changed&theme=dark" alt="piyush7833" /></p>
+<p><img align="left" src="https://api.githubtrends.io/user/svg/piyush7833/repos?time_range=one_year&loc_metric=changed&theme=dark" alt="piyush7833" /></p>
 
-<p>&nbsp;<img align="center" src="[https://awesome-github-stats.azurewebsites.net/user-stats/piyush7833?cardType=level&preferLogin=false" alt="piyush7833" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush7833&" alt="piyush7833" /></p>
-
-<!-- <div align="right">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
-</div> -->
+<p><img align="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/piyush7833?cardType=level&preferLogin=false&theme=dark" alt="piyush7833" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush7833&theme=dark" alt="piyush7833" /></p>
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyush7833&theme=react-dark)
