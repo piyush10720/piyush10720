@@ -1,6 +1,6 @@
 ﻿<img width="100%" height = "100%" src="./banner/Github Banner.png" alt="Hi, I'm Piyush" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush7833&label=Profile%20views&color=0e75b6&style=flat" alt="piyush7833" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush10720&label=Profile%20views&color=0e75b6&style=flat" alt="piyush10720" /> </p>
 
 - 🔭 I’m currently working on **M.U.N.C.H.**
 
@@ -19,8 +19,8 @@
 
 ## Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/piyush7833/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/piyush7833)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/piyush10720/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/piyush10720)
 
 ## Skills
 
@@ -58,13 +58,14 @@
 [Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-<p><img align="left" src="https://api.githubtrends.io/user/svg/piyush7833/langs?time_range=one_year&loc_metric=changed&theme=dark" alt="piyush7833" /></p>
-<p><img align="left" src="https://api.githubtrends.io/user/svg/piyush7833/repos?time_range=one_year&loc_metric=changed&theme=dark" alt="piyush7833" /></p>
+<p><img align="left" src="https://api.githubtrends.io/user/svg/piyush10720/langs?time_range=one_year&loc_metric=changed&theme=dark" alt="piyush10720" /></p>
+<p><img align="left" src="https://api.githubtrends.io/user/svg/piyush10720/repos?time_range=one_year&loc_metric=changed&theme=dark" alt="piyush10720" /></p>
 
-<p><img align="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/piyush7833?cardType=level&preferLogin=false&theme=dark" alt="piyush7833" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush7833&theme=dark" alt="piyush7833" /></p>
+<p><img align="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/piyush10720?cardType=level&preferLogin=false&theme=dark" alt="piyush10720" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush10720&theme=dark" alt="piyush10720" /></p>
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyush7833&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyush10720&theme=react-dark)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush7833" alt="piyush7833" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush10720" alt="piyush10720" /></a> </p>
+
